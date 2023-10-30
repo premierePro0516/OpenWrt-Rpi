@@ -7,7 +7,7 @@
 # Oct 29, 2023: Jeff fix "set-output" issue in SulingGG code 
 #=================================================
 
-name: Build x86/64 openwrt
+name: Build x86/64 OP 20231030
 
 on:
   workflow_dispatch:
